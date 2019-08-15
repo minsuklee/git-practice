@@ -23,7 +23,7 @@ Git practice repo. by Minsuk Lee
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.8.15 | [[Open Secure Lab] 제5회 정보보안 세미나](https://www.onoffmix.com/event/188757) | 서울성동 | 정보보안, 모의해킹, 취약점분석 | 무료 |
 | 2029.12.25-67 | [[Open Secure Lab] 제5회 vfvfvfvfvfvfv 정보보안 세미나](https://www.onoffmix.com/event/188757) | 서울성동 | 정보보안, 모의해킹, 취약점분석, 정보보안, 모의해킹, 취약점분석, 정보보안, 모의해킹, 취약점분석, 정보보안, 모의해킹, 취약점분석 | 무료 |
-|<img width=250/>|<img width=150/>|<img width=160/>|<img width=150/>|<img width=85/>|
+|<img width=270/>|<img width=150/>|<img width=165/>|<img width=150/>|<img width=90/>|
 
 
 | 날짜 | 제목 | 장소 | 주요주제 | 가격 |
