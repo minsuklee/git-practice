@@ -18,7 +18,7 @@ Git practice repo. by Minsuk Lee
 
 * [Acknowledgments](acknowledgments.md) (1차리뷰필요)
 
-| 날짜 | 제목 | 장소 | 주요주제 | 가격 |
+| 날짜 | 제목 | &nbsp;&nbsp;장소&nbsp;&nbsp; | 주요주제 | &nbsp;가격&nbsp; |
 |------|---|------------------|---|--------------------|
 | [이전](old.md) |[모든 이벤트](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 | 2019.8.15 | [[Open Secure Lab] 제5회 정보보안 세미나](https://www.onoffmix.com/event/188757) | 서울성동 | 정보보안, 모의해킹, 취약점분석 | 무료 |
