@@ -18,6 +18,7 @@ Git practice repo. by Minsuk Lee
 <details>
 <summary>1111 소요 비용 항목 접기/펼치기</summary>
 <p>
+            
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | 2019.8.4 | 이전은 | - | 몰라요 ㅠㅠ | - |
@@ -32,10 +33,10 @@ Git practice repo. by Minsuk Lee
 | 2019.8.26 | [AWSKRUG #Beginner 모임 (8월 26일)](https://www.meetup.com/ko-KR/awskrug/events/264181522/) | 서울강남 | #AWS, AWS Cloud, AWSKRUG | 무료 |
 </p>
 </details>
-</br>
 <details>
 <summary>22222 소요 비용 항목 접기/펼치기</summary>
 <p>
+            
 | 날짜 | 이벤트&nbsp;이름 | 장&nbsp;소 | 주요&nbsp;&nbsp;주제 | 가&nbsp;격 |
 | :-: | :- | :-: | :- | :-: |
 | 2019.8.4 | 이전은 | - | 몰라요 ㅠㅠ | - |
@@ -53,6 +54,7 @@ Git practice repo. by Minsuk Lee
 | 2019.8.27 | [2019 호남정보보호 컨퍼런스 및 정보보호 역량강화 워크숍 개최](https://www.onoffmix.com/event/186695) | 전남나주 | #AI, #보안, 정보보호, 인공지능 | 무료 |
 | 2019.8.27 | [Klaytn Developer Meetup](https://festa.io/events/418) | 서울강남 | #블록체인, Klaytn, BApp | 무료 |
 | 2019.8.27 | [CircleCI Korea User Group 두번째 모임!](https://festa.io/events/417) | 서울강남 | #DevOps, CircleCI, ArgoCD | 유료 |
+
 </p>
 </details>
 </br>
