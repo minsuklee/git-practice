@@ -1,7 +1,7 @@
 # git-practice
 Git practice repo. by Minsuk Lee
 
-COUMMUNITY
+COMMUNITY
 
 ## 제목 (페이지, 분량)
 
