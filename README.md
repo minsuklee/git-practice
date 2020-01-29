@@ -1,3 +1,14 @@
+KEEP
+       CLEAN
+       CLEAN
+       CLEAN
+       CLEAN
+
+FOR OUR
+COUMMUNITY
+
+
+
 # git-practice
 Git practice repo. by Minsuk Lee
 
