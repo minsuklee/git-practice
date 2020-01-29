@@ -1,6 +1,8 @@
 # git-practice
 Git practice repo. by Minsuk Lee
 
+COUMMUNITY
+
 ## 제목 (페이지, 분량)
 
 * [그냥](http://ss.ss.)
