@@ -3,6 +3,7 @@ KEEP
        CLEAN
        CLEAN
        CLEAN
+       clean
 
 FOR OUR
 COMMUNITY
