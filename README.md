@@ -10,7 +10,7 @@ COMMUNITY
 
 
 
-[![](<img src="book-cover.png" width="300px"></img> )](https://innovationacademy.kr)
+[<img src="book-cover.png" width="300px"></img>](https://innovationacademy.kr)
 
 # git-practice
 Git practice repo. by Minsuk Lee
