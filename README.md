@@ -10,7 +10,7 @@ COMMUNITY
 
 
 
-[![텍스트](<img src="book-cover.png" width="300px"></img> )](tech-hr-guide-1.1.pdf)
+[![](<img src="book-cover.png" width="300px"></img> )](https://innovationacademy.kr)
 
 # git-practice
 Git practice repo. by Minsuk Lee
