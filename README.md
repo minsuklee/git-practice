@@ -8,9 +8,7 @@ KEEP
 FOR OUR
 COMMUNITY
 
-
-
-[<img src="book-cover.png" width="300px"></img>](https://innovationacademy.kr)
+https://docs.google.com/document/d/1z9X6bj-kMZN6lHIfkDr0OVLktmrjEo7cAolnmUCptJE/edit?tab=t.0
 
 # git-practice
 Git practice repo. by Minsuk Lee
